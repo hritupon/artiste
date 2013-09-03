@@ -1,5 +1,5 @@
 =================================
-artiste 1.0
+artiste 1.0.0
 =================================
 Project started by 
 Developers : 
